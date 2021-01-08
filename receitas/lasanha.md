@@ -1,7 +1,7 @@
-#Lasanha de Frango :chicken
+# Lasanha de Frango :chicken
 **Negrito** _Italico_
 
-###Ingredientes
+### Ingredientes
 
  - 1 kilo de frango
  - 1 kilo de queijo
